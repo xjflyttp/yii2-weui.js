@@ -10,7 +10,7 @@ use yii\web\AssetBundle;
 class WeuiJsAsset extends AssetBundle
 {
 
-    public $sourcePath = '@bower/weui.js/dist';
+    public $sourcePath = '@npm/weui.js/dist';
     public $basePath = '@webroot/assets';
     public $js = ['weui.js'];
     public $depends = ['yii\web\JqueryAsset'];
