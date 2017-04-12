@@ -1,13 +1,13 @@
 # yii2-weui.js
 ```
-https://github.com/progrape/weui.js
+https://github.com/weui/weui.js
 ```
 
 ### composer.json
 ---
 ```json
 "require": {
-    "xj/yii2-weui.js": "~1.0"
+    "xj/yii2-weui.js": "~1.1.0"
 },
 ```
 
